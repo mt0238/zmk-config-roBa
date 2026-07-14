@@ -69,7 +69,7 @@
 &trans  &trans    &trans    &trans    &trans                            &trans  &trans  &trans    &trans    &trans
 &trans  &mkp MB2  &mkp MB3  &mkp MB1  &trans  &trans        &trans      &trans  &trans  &trans    &mkp MB2  &mkp MB2
 &trans  &trans    &trans    &trans    &trans  &trans        &trans      &trans  &trans  &mkp MB1  &trans    &trans
-&trans  &trans    &trans    &trans    &trans  &mo 4         &trans      &trans                              &trans
+&trans  &trans    &trans    &trans    &mo 4   &trans        &trans      &trans                              &trans
             >;
         };
     };
